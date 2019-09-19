@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name DLP-control-rescue)(type Legacy)(uri ${KIPRJMOD}/DLP-control-rescue.lib)(options "")(descr ""))
+  (lib (name curwa-rescue)(type Legacy)(uri ${KIPRJMOD}/curwa-rescue.lib)(options "")(descr ""))
+  (lib (name cw-01-rescue)(type Legacy)(uri ${KIPRJMOD}/cw-01-rescue.lib)(options "")(descr ""))
+  (lib (name cw-02-rescue)(type Legacy)(uri ${KIPRJMOD}/cw-02-rescue.lib)(options "")(descr ""))
+  (lib (name cw-03-rescue)(type Legacy)(uri ${KIPRJMOD}/cw-03-rescue.lib)(options "")(descr ""))
+  (lib (name cw-04-rescue)(type Legacy)(uri ${KIPRJMOD}/cw-04-rescue.lib)(options "")(descr ""))
+  (lib (name cw-04b-rescue)(type Legacy)(uri ${KIPRJMOD}/cw-04b-rescue.lib)(options "")(descr ""))
+  (lib (name cw-controller-04b-rescue)(type Legacy)(uri ${KIPRJMOD}/cw-controller-04b-rescue.lib)(options "")(descr ""))
+  (lib (name cw-controller-04c-rescue)(type Legacy)(uri ${KIPRJMOD}/cw-controller-04c-rescue.lib)(options "")(descr ""))
+)
